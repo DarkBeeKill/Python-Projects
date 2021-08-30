@@ -1,2 +1,2 @@
-# Python-Projects
+# Python-Projects 💛
 Projects with Python
